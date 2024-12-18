@@ -5,9 +5,9 @@ NU Hotel Booking App is an iOS application developed using SwiftUI and Firebase 
 
 ## App Screenshots
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="NUHotelAppPhotos/staff-login.png" width="200" alt="Login Page">
-    <img src="NUHotelAppPhotos/rooms.png" width="200" alt="Rooms Page">
-    <img src="NUHotelAppPhotos/service-request.png" width="200" alt="Service Request Page">
+    <img src="photos/staff-login.png" width="200" alt="Login Page">
+    <img src="photos/rooms.png" width="200" alt="Rooms Page">
+    <img src="photos/service-request.png" width="200" alt="Service Request Page">
 </div>
 
 ## Features
